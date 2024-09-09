@@ -1,4 +1,3 @@
-```markdown
 # GameAssembly Hooking DLL
 
 This project demonstrates how to hook a method from `GameAssembly.dll` using [MinHook](https://github.com/TsudaKageyu/minhook). It allows you to intercept and replace the functionality of a target function within a DLL.
@@ -50,4 +49,3 @@ This project demonstrates how to hook a method from `GameAssembly.dll` using [Mi
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-```
